@@ -1,7 +1,7 @@
-Hi 👋 My name is Burçak.
+[![](https://visitcount.itsvg.in/api?id=burcakyildirim&label=Views&pretty=true)](https://visitcount.itsvg.in)
 ========================
 
-[![](https://visitcount.itsvg.in/api?id=burcakyildirim&label=Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
+Hi 👋 My name is Burçak.
 ========================
 
 Full Stack Web Developer
