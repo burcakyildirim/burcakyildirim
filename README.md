@@ -1,4 +1,4 @@
-Hey! 👋                [![](https://visitcount.itsvg.in/api?id=burcakyildirim&label=Viewers&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
+Hey! 👋
 ========================
 
 My name is Burçak.
