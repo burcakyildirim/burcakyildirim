@@ -1,4 +1,4 @@
-Hey! 👋     [![](https://visitcount.itsvg.in/api?id=burcakyildirim&label=Viewers&color=10&icon=6&pretty=true)](https://visitcount.itsvg.in)
+Hey! 👋 
 ========================
 
 My name is Burçak.
@@ -14,6 +14,7 @@ I've been learning code for 1 year.I started learning HTML at first, but then I 
 *   🧠  I'm learning Java.
 *   🤝  I'm open to collaborating on projects.
 *   ⚡  I'm a huge fan of Star Wars.
+*   [](https://visitcount.itsvg.in/api?id=burcakyildirim&label=Viewers&color=10&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 *  # Skills
 <p align="left">
