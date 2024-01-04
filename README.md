@@ -1,13 +1,13 @@
 Hey! 👋   [![](https://visitcount.itsvg.in/api?id=burcakyildirim&label=Viewers&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 ========================
 
+<img src= "_b7b51b75-8988-49b0-8487-9717916a7c7f.jpg" alt = "burcak" align = "right" width ="350px" height = "350px">
+
 My name is Burçak.
 ========================
 
 Full Stack Web Developer
 ------------------------
-
-<img src= "_b7b51b75-8988-49b0-8487-9717916a7c7f.jpg" alt = "burcak" align = "right" width ="350px" height = "350px">
 
 I've been learning code for 1 year.I started learning HTML at first, but then I am learning JAVA because of my passion for the Back-End.
 
