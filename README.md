@@ -7,6 +7,8 @@ My name is Burçak.
 Full Stack Web Developer
 ------------------------
 
+<img src= "_b7b51b75-8988-49b0-8487-9717916a7c7f.jpg" alt = "burcak" align = "right" width ="300px" height = "300px">
+
 I've been learning code for 1 year.I started learning HTML at first, but then I am learning JAVA because of my passion for the Back-End.
 
 *   🌍  I'm based in Turkey.
@@ -15,8 +17,6 @@ I've been learning code for 1 year.I started learning HTML at first, but then I 
 *   🤝  I'm open to collaborating on projects.
 *   ⚡  I'm a huge fan of Star Wars.
 
-
-<img src= "_b7b51b75-8988-49b0-8487-9717916a7c7f.jpg" alt = "burcak" align = "right" width ="200px" height = "200px">
 
 *  # Skills
 <p align="left">
