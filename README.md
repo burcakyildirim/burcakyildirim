@@ -15,7 +15,7 @@ I've been learning code for 1 year.I started learning HTML at first, but then I 
 *   🤝  I'm open to collaborating on projects.
 *   ⚡  I'm a huge fan of Star Wars.
 
-<img src="[https://websiteninadi.uzantisi/resim_dosyasinin_adi.png](https://github.com/burcakyildirim/burcakyildirim/assets/112633087/0ef11323-c113-42a6-b257-a0b553f4f1e8)" height="500" align= "right">
+<img src="[_b7b51b75-8988-49b0-8487-9717916a7c7f](https://github.com/burcakyildirim/burcakyildirim/assets/112633087/0ef11323-c113-42a6-b257-a0b553f4f1e8)" height="500" align= "right">
 
 *  # Skills
 <p align="left">
