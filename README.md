@@ -16,7 +16,7 @@ I've been learning code for 1 year.I started learning HTML at first, but then I 
 *   ⚡  I'm a huge fan of Star Wars.
 
 
-<img src= "_b7b51b75-8988-49b0-8487-9717916a7c7f.jpg" alt = "burcak" align = "right">
+<img src= "_b7b51b75-8988-49b0-8487-9717916a7c7f.jpg" alt = "burcak" align = "right" width ="200px" height = "200px">
 
 *  # Skills
 <p align="left">
