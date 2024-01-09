@@ -13,7 +13,7 @@ I've been learning code for 1 year.I started learning HTML at first, but then I 
 
 *   🌍  I'm based in Turkey.
 *   ✉️  You can contact me at [brckyldrm@gmail.com](mailto:brckyldrm@gmail.com )
-*   🧠  I'm learning Java.
+*   🧠  I'm learning Spring Boot.
 *   🤝  I'm open to collaborating on projects.
 *   ⚡  I'm a huge fan of Star Wars.
 
