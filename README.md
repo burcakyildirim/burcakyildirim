@@ -3,9 +3,6 @@ Hey! 👋   [![](https://visitcount.itsvg.in/api?id=burcakyildirim&label=Viewers
 
 <img src= "img1.jpg" alt = "burcak" align = "right" width ="350px" height = "350px">
 
-My name is Burçak.
-
-
 Full Stack Web Developer
 
 
