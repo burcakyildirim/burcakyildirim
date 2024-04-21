@@ -6,11 +6,10 @@ Hey! 👋   [![](https://visitcount.itsvg.in/api?id=burcakyildirim&label=Viewers
 Full Stack Web Developer
 
 
-I've been learning code for 1 year.I started learning HTML at first, but then I am learning JAVA because of my passion for the Back-End.
+I've been learning code for 2 years.I started learning HTML at first, but then I am learning JAVA because of my passion for the Back-End.
 
-*   🌍  I'm based in Turkey.
+*   🌍  I'm based in Ankara.
 *   ✉️  You can contact me at [brckyldrm@gmail.com](mailto:brckyldrm@gmail.com )
-*   🧠  I'm learning React.
 *   🤝  I'm open to collaborating on projects.
 *   ⚡  I'm a huge fan of Star Wars.
 
