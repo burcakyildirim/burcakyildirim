@@ -17,7 +17,7 @@ I've been learning code for 2 years.I started learning HTML at first, but then I
       + JUnit Test,
       + Spring MVC,
       + Docker
-  ⚡ I’m currently open for an Intern or job opportunity.
+*   ⚡ I’m currently open for an Intern or job opportunity.
 
 
 * # Skills 
