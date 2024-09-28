@@ -1,9 +1,9 @@
-Hey! 👋                 ![](https://komarev.com/ghpvc/?username=burcakyildirim&color=blue)
+Hey! 👋                 
 ========================
 
 <img src= "img1.jpg" alt = "burcak" align = "right" width ="350px" height = "350px">
 
-Full Stack Web Developer
+Full Stack Web Developer ![](https://komarev.com/ghpvc/?username=burcakyildirim&color=blue)
 
 
 I've been learning code for 2 years.I started learning HTML at first, but then I am learning JAVA because of my passion for the Back-End.
