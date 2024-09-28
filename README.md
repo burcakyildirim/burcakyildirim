@@ -8,16 +8,16 @@ Full Stack Web Developer
 
 I've been learning code for 2 years.I started learning HTML at first, but then I am learning JAVA because of my passion for the Back-End.
 
-*   🌍  I'm based in Ankara.
+*   🌍  I'm living in Ankara.
 *   ✉️  You can contact me at [brckyldrm@gmail.com](mailto:brckyldrm@gmail.com )
 *   🤝  I'm open to collaborating on projects.
 *   ⚡  I'm a huge fan of Star Wars.
-*   - 👨🏽‍💻 I’m currently learning new fields and improving my existing skills through online platforms.
-    - + Spring Security,
+*   👨🏽‍💻 I’m currently learning new fields and improving my existing skills through online platforms.
+      + Spring Security,
       + JUnit Test,
       + Spring MVC,
       + Docker
-- ⚡ I’m currently open for an Intern or job opportunity.
+  ⚡ I’m currently open for an Intern or job opportunity.
 
 
 * # Skills 
