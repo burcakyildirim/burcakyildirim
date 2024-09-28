@@ -3,7 +3,7 @@ Hey! 👋
 
 <img src= "img1.jpg" alt = "burcak" align = "right" width ="350px" height = "350px">
 
-Full Stack Web Developer ![](https://komarev.com/ghpvc/?username=burcakyildirim&color=blue)
+Full Stack Web Developer 
 
 
 I've been learning code for 2 years.I started learning HTML at first, but then I am learning JAVA because of my passion for the Back-End.
@@ -27,7 +27,7 @@ I've been learning code for 2 years.I started learning HTML at first, but then I
                     
                     
                     
-*  # Socials
+*  # Socials ![](https://komarev.com/ghpvc/?username=burcakyildirim&color=blue)
 <p align="left"> <a href="https://www.github.com/burcakyildirim" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/burcakyildirim/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 <b>My GitHub Stats</b>
 
