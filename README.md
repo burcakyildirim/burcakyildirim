@@ -12,10 +12,8 @@ I've been learning code for 2 years.I started learning HTML at first, but then I
 *   ✉️  You can contact me at [brckyldrm@gmail.com](mailto:brckyldrm@gmail.com )
 *   🤝  I'm open to collaborating on projects.
 *   👨🏽‍💻 I’m currently learning new fields and improving my existing skills through online platforms.
-      + Spring Security,
-      + JUnit Test,
-      + Spring MVC,
-      + Docker
+      + TypeScript,
+      + Redux
 *   ⚡ I’m currently open for an Intern or job opportunity.
 
 
